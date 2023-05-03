@@ -6,6 +6,7 @@
 
 an infinitely curious software engineer, with a **special** eye for detail.
 I try to make every tick count, always being mindful of all moving parts in large complex systems.
+Interested in C++, C#, Rust, Rendering, Parallelization, Build Systems & above all, performant code.
 
 - 🛠️ Working at [FABAMAQ](https://www.fabamaq.com/en) building casino games
 - 🕘 After hours you can find me working on:
