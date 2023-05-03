@@ -1,4 +1,6 @@
-![One Ring](https://github.com/jose-lico/jose-lico/blob/master/one_ring.jpeg)
+<p align="center">
+  <img src="https://github.com/jose-lico/jose-lico/blob/master/one_ring.jpeg"/>
+</p>
 
 ### I'm José Lico,
 
