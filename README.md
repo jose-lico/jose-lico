@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/jose-lico/jose-lico/blob/master/one_ring.jpeg"/>
+  <img src="https://github.com/jose-lico/jose-lico/blob/master/one_ring.webp"/>
 </p>
 
 ### I'm José Lico,
