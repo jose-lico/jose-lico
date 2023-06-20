@@ -14,4 +14,4 @@ Interested in C++, Rust, Rendering, Parallelization, Build Systems & above all, 
   - 🕯️ [Dusk](https://github.com/jose-lico/Dusk) - A cross platform 3D Game Engine written in C++ with an OpenGL backend
   - 👾 [rustiest-boy](https://github.com/jose-lico/rustiest-boy) - A GameBoy Color emulator written in Rust with WebAssembly/wasm support
 - 🏠 [joselico.com](https://joselico.com) is where I host more information about my projects & articles
-- 📫 Reach me at: [contact@joselico.com](mailto:contact@joselico.com) or jose_lico on Discord
+- 📫 Reach me at: [contact@joselico.com](mailto:contact@joselico.com) or **jose.lico** on Discord
