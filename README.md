@@ -7,11 +7,11 @@
 an infinitely curious software engineer, with a **special** eye for detail.
 I try to make every tick count, always being mindful of all moving parts in large complex systems.
 
-Interested in C++, Rust, Rendering, Parallelization, Build Systems & above all, performant code.
+Interested in Golang, C++, TS, Rendering & above all, performant code.
 
-- 🎰 Working at [FABAMAQ](https://www.fabamaq.com/en) building casino games
-- 🕘 After hours you can find me working on:
+- 👨‍💻 Currently trying to bootstrap a web app, still in development
+- 🎰 Previously worked at [FABAMAQ](https://www.fabamaq.com/en) for 2~ years building casino games
+- 🕘 Ocasionally work on game related things like game jams or small prototypes:
   - 🕯️ [Dusk](https://github.com/jose-lico/Dusk) - A cross platform 3D Game Engine written in C++ with an OpenGL backend
-  - 👾 [rustiest-boy](https://github.com/jose-lico/rustiest-boy) - A GameBoy Color emulator written in Rust with WebAssembly/wasm support
 - 🏠 [joselico.com](https://joselico.com) is where I host more information about my projects & articles
 - 📫 Reach me at: [contact@joselico.com](mailto:contact@joselico.com) or **jose.lico** on Discord
