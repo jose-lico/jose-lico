@@ -11,7 +11,6 @@ Interested in Golang, C++, TS, Rendering & above all, performant code.
 
 - 👨‍💻 Currently trying to bootstrap a web app, still in development
 - 🎰 Previously worked at [FABAMAQ](https://www.fabamaq.com/en) for 2~ years building casino games
-- 🕘 Ocasionally work on game related things like game jams or small prototypes:
-  - 🕯️ [Dusk](https://github.com/jose-lico/Dusk) - A cross platform 3D Game Engine written in C++ with an OpenGL backend
+- 🕘 Ocasionally work on game related things like game jams or small prototypes
 - 🏠 [joselico.com](https://joselico.com) is where I host more information about my projects & articles
 - 📫 Reach me at: [contact@joselico.com](mailto:contact@joselico.com) or **jose.lico** on Discord
