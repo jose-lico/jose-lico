@@ -10,7 +10,7 @@ I try to make every tick count, always being mindful of all moving parts in larg
 Interested in Golang, C++, Backend Dev, Cloud Computing, Game Dev & Rendering.
 
 - 👨‍💻 Currently doing fullstack development with Golang, React, and GCP
-- 🎰 Previously worked at [FABAMAQ](https://www.fabamaq.com/en) for 2~ years building casino games
+- 🎰 Previously worked at [FABAMAQ](https://www.fabamaq.com/en) for 2+ years building casino games
 - 🕘 Ocasionally work on game related things like game jams or small prototypes
 - 🏠 [joselico.com](https://joselico.com) is where I host more information about my projects & write stuff
 - 📫 Reach me at: [contact@joselico.com](mailto:contact@joselico.com) or **jose.lico** on Discord
