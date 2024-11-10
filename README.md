@@ -7,7 +7,7 @@
 an infinitely curious software engineer, with a **special** eye for detail.
 I try to make every tick count, always being mindful of all moving parts in large complex systems.
 
-Interested in Golang, C++, Backend Dev, Cloud Computing, Game Dev & Rendering.
+Interested in Golang, C++, Backend Dev & Game Dev.
 
 - 👨‍💻 Currently doing backend development with Golang
 - 🎰 Previously worked at [FABAMAQ](https://www.fabamaq.com/en) for 2+ years building casino games
