@@ -9,7 +9,7 @@ I try to make every tick count, always being mindful of all moving parts in larg
 
 Interested in Golang, C++, Backend Dev & Game Dev.
 
-- 👨‍💻 Currently doing backend development with Golang
+- 👨‍💻 Currently working as a Backend Engineer at [Massive Studios](https://www.massivestudios.io/), using Golang.
 - 🎰 Previously worked at [FABAMAQ](https://www.fabamaq.com/en) for 2+ years building casino games
 - 🕘 Ocasionally work on game related things like game jams or small prototypes
 - 🏠 [joselico.com](https://joselico.com) is where I host more information about my projects & write stuff
